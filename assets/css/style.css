@@ -649,6 +649,12 @@ section {
 
 .project-content {
   font-family: 'NanumSquare';
+  font-size: large;
+}
+
+.project-content-bold {
+  font-family: 'NanumSquare';
+  font-size: large;
 }
 
 /*--------------------------------------------------------------
